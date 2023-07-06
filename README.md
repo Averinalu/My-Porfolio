@@ -20,7 +20,7 @@
 </ol>
 <p>Как решала: Определяем CAC, CPA, Retention, LTR, LTV, COGS, Fixed Costs и маржинальность с использованием функционала Excel<p>
   
-> <a href="https://github.com/Skyproportfolio/data-analytics-5month/blob/main/Проект%20№1.xlsx">Ссылка на проект</a>
+> <a href="https://docs.google.com/spreadsheets/d/1mBAZh9rFtx_9exhL5fxDF7i7276Oj6dp/edit?usp=sharing&ouid=100148397582878026678&rtpof=true&sd=true)">Ссылка на проект</a>
 
 <p>Выводы:<p>
 <ol>
